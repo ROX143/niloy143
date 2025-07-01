@@ -1,1 +1,1 @@
-inport niloy_ENC.py
+import niloy_ENC.py
